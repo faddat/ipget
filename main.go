@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"os"
 	"os/signal"
-	"path/filepath"	
+	"path/filepath"
 	"strings"
 	"syscall"
 
+	"github.com/faddat/ipget/get"
 	iface "github.com/ipfs/interface-go-ipfs-core"
-	"github.com/ipfs/ipget/get"
 	cli "github.com/urfave/cli/v2"
 )
 
