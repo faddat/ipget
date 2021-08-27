@@ -1,4 +1,4 @@
-module github.com/ipfs/ipget
+module github.com/faddat/ipget
 
 go 1.16
 
